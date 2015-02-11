@@ -1,0 +1,28 @@
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.exe.config
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.exe
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.pdb
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.csprojResolveAssemblyReference.cache
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.Form1.resources
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.Properties.Resources.resources
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.csproj.GenerateResource.Cache
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.exe
+c:\users\jerico\documents\visual studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.pdb
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.exe.config
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.exe
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.pdb
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.exe
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.pdb
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.csprojResolveAssemblyReference.cache
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.Form1.resources
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.Properties.Resources.resources
+C:\Users\Conrad1\Documents\Visual Studio 2013\Projects\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.csproj.GenerateResource.Cache
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.exe.config
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.exe
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.pdb
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.exe
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\bin\Debug\CCISHandBook.pdb
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.csprojResolveAssemblyReference.cache
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.Form1.resources
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.Properties.Resources.resources
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.csproj.GenerateResource.Cache
+C:\Users\James Pogi\Desktop\CCISHandBook\CCISHandBook\obj\Debug\CCISHandBook.SplashScreen.resources
